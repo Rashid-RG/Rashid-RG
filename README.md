@@ -12,6 +12,9 @@
   <a href="https://twitter.com/mohamme06380166" target="_blank">
     <img src="https://img.shields.io/twitter/follow/mohamme06380166?logo=twitter&style=for-the-badge" alt="mohamme06380166" />
   </a> 
+
+<script src="https://tryhackme.com/badge/1849069"></script>
+  
 </p>
 
 - 🌱 Currently learning **Full-stack web development, Hacking, and Cybersecurity** 🛡️.
