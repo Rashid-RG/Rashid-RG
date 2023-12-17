@@ -3,7 +3,7 @@
 
 <h1 align="center">Hey there! 👋 I'm Mohammed Rashid</h1>
 <h3 align="center">🚀 A passionate frontend, backend developer, and hacker from the beautiful Sri Lanka 🌴.</h3>
-
+<script src="https://tryhackme.com/badge/1849069"></script>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashid-rg&label=Profile%20views&color=0e75b6&style=flat" alt="rashid-rg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashid-rg" alt="rashid-rg" /></a> </p>
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/twitter/follow/mohamme06380166?logo=twitter&style=for-the-badge" alt="mohamme06380166" />
   </a> 
 
-<script src="https://tryhackme.com/badge/1849069"></script>
+
   
 </p>
 
