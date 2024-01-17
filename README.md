@@ -9,8 +9,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashid-rg" alt="rashid-rg" /></a> </p>
 
 <p align="left"> 
-  <a href="https://twitter.com/mohamme06380166" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/mohamme06380166?logo=twitter&style=for-the-badge" alt="mohamme06380166" />
+  <a href="https://twitter.com/MrRashid" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/MrRashid?logo=twitter&style=for-the-badge" alt="MrRashid" />
   </a> 
 
 
@@ -29,8 +29,8 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/mohamme06380166" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamme06380166" height="30" width="40" />
+  <a href="https://twitter.com/MrRashid" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MrRashid" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/mohammed-rashid-mrm" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-rashid-mrm" height="30" width="40" />
