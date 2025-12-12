@@ -1,0 +1,47 @@
+name: "Daily README updater"
+on:
+  schedule:
+    - cron: '0 8 * * *' # every day at 08:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - name: Generate daily snippet
+        run: |
+          mkdir -p .github/readme-data
+          cat > .github/readme-data/daily-snippet.md <<'EOF'
+          ### 🔮 Daily Byte
+          > "Automate the boring stuff — then go build the cool stuff."
+          **Puzzle:** Reverse the string "gnittenilc ykcul" and send a PR with the answer :)
+          EOF
+      - name: Insert snippet into README
+        run: |
+          # This example replaces a marker <!-- DAILY_SNIPPET --> in README.md with the generated snippet.
+          python - <<'PY'
+          from pathlib import Path
+          readme = Path("README.md").read_text(encoding="utf-8")
+          snippet = Path(".github/readme-data/daily-snippet.md").read_text(encoding="utf-8")
+          marker = "<!-- DAILY_SNIPPET -->"
+          if marker in readme:
+              new = readme.replace(marker, snippet)
+              Path("README.md").write_text(new, encoding="utf-8")
+          else:
+              print("Marker not found; skipping.")
+          PY
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md || true
+          git commit -m "chore: daily README update" || echo "no changes to commit"
+          git push || echo "push failed"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
