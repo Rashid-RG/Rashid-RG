@@ -10,6 +10,9 @@ BIT (External) — Faculty of Information Technology, University of Moratuwa
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammed--rashid--mrm-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-rashid-mrm)
 [![X](https://img.shields.io/badge/X-@MrRashid-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/MrRashid)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Rashid-RG&style=flat-square&color=555)
+![GitHub Followers](https://img.shields.io/github/followers/Rashid-RG?style=flat-square&logo=github&label=Followers&color=0A0A0A)
+
 </div>
 
 ---
@@ -35,7 +38,7 @@ A full-featured LMS with AI course generation, adaptive quizzes, and automated b
 
 **Scale:** 43-table relational schema, background job orchestration, secure auth, and integrated payments.
 
-🔗 [Live demo](https://gemini-lms.vercel.app)
+🔗 [Live demo](https://gemini-lms.vercel.app) · [Repository](https://github.com/Rashid-RG/gemini-lms)
 
 ---
 
