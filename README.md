@@ -77,9 +77,17 @@ A full-featured LMS with AI course generation, adaptive quizzes, and automated b
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rashid-rg&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashid-rg&layout=compact&theme=graywhite&hide_border=true" alt="Top Languages" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=rashid-rg&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rashid-rg&layout=compact&theme=graywhite&hide_border=true" alt="Top Languages" height="165" />
 
+</div>
+
+---
+
+## 🗓️ 3D Contribution Calendar
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
 ---
