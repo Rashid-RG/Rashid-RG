@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sajeefa MSF
+# Rashid MRM
 
 **Full-Stack Developer · Next.js · TypeScript · AI-Integrated Systems**
 
